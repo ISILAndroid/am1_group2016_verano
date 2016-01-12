@@ -29,8 +29,9 @@ Curso de Aplicaciones Móviles I - Android ISIL - Grupo 2016 - Verano
 
 Referencias
 
-	- [https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
-	- [https://docs.oracle.com/javase/tutorial/java/concepts/](https://docs.oracle.com/javase/tutorial/java/concepts/)
+[https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html](https://www3.ntu.edu.sg/home/ehchua/programming/java/J3a_OOPBasics.html)
+
+[https://docs.oracle.com/javase/tutorial/java/concepts/](https://docs.oracle.com/javase/tutorial/java/concepts/)
 
 
 
