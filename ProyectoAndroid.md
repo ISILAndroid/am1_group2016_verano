@@ -5,7 +5,7 @@ Curso de Aplicaciones Móviles I - Android ISIL - Grupo 2016 - Verano
 
 1. Estructura del Proyecto
 
-![1](https://github.com/ISILAndroid/am1_group2016_verano/blob/Lesson1/images/project01.png)
+![1](https://github.com/ISILAndroid/am1_group2016_verano/blob/Lesson1/images/project1.png)
 
 
 2. Configuración
