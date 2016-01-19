@@ -11,6 +11,7 @@ import com.isil.examplesandroidjava.R;
  * Referencia:
  *      http://www.java-examples.com/java-language-fundamentals
  *      https://docs.oracle.com/javase/tutorial/java/nutsandbolts/
+ *      https://github.com/vhf/free-programming-books/blob/master/free-programming-books-es.md#java
  */
 public class JavaFundamentalsActivity extends AppCompatActivity {
 
